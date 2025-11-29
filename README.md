@@ -1,9 +1,7 @@
 EnvHunter 🔍
 Advanced .env File Scanner for Security Research
 
-https://img.shields.io/badge/Python-3.8+-blue.svg
-https://img.shields.io/badge/License-MIT-green.svg
-https://img.shields.io/badge/Platform-Linux%2520%257C%2520Windows%2520%257C%2520MacOS-lightgrey.svg
+![Nama Gambar](tayo/Screenshot_20251129_174606.jpg)
 
 🌐 Languages
 English | Indonesian
